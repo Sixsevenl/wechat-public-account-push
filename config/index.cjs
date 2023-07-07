@@ -7,8 +7,11 @@
  */
 const USER_CONFIG = {
 
+  // 请将以下代码按照图示粘贴到对应位置
+  USE_PASSAGE: 'push-deer',
+
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'PDU23873TlS0L5lqXg6EkEJdyYpxFvtHZJ0CiySHh',
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',
